@@ -1,2 +1,2 @@
-# minimalist-functional-web-template
-minimalist-functional-web-template
+# minimalist-functional-web-starter
+minimalist-functional-web-starter
