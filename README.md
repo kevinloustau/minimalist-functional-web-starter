@@ -6,8 +6,7 @@ html: hyperscript, hyperscript-helpers, virtual-dom
 css: tachyons
 js: ramda
 
-
 use parcel to build
 
 todo:
-integrate parcel to dev dep 
+integrate parcel to dev dep

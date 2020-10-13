@@ -1,4 +1,4 @@
-import { initModel } from './Model'
+import { initModel } from './model.js'
 import * as R from 'ramda'
 
 const MSGS = {}
